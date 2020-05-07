@@ -38,7 +38,11 @@ class SchellingAgent():
         '''
         The agent is happy if at least 30% of its neighbors are of the same type. 
         '''
-        print('Implement is_happy()')
+#         if self.type == 1:
+#             print("Agent is happy")
+#         else:
+#             print("Agent is unhappy")
+#         print('Implement is_happy()')
         
     def move(self):
         '''
